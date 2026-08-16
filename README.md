@@ -44,7 +44,10 @@ The traffic light works in this order:
 
 ## Circuit
 
-```text
 Pin 13 ── 220Ω ── 🔴 Red LED ── GND
 Pin 12 ── 220Ω ── 🟡 Yellow LED ── GND
 Pin 11 ── 220Ω ── 🟢 Green LED ── GND
+
+## Demo Video
+
+[▶️ View Traffic Light Demo](demo video.mp4)
